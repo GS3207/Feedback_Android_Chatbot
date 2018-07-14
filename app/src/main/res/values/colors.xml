@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <color name="colorPrimary">@android:color/transparent</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bg_imp">#FFE7E7</color>
+
+    <color name="orange">#ef7721</color>
+    <color name="orange_dark">#E85110</color>
+    <color name="red">#FF0000</color>
+    <color name="redish_pink">#D8C1BB</color>
+
+    <color name="white">#ffffff</color>
+    <color name="white_dark">#FAFAFA</color>
+    <color name="white_grayish">#F9F9F9</color>
+    <color name="black">#000000</color>
+
+    <color name="transparent"> #00FFFFFF</color>
+    <color name="transparent_blackish">#90000000</color>
+
+    <color name="light_grey">#DDDDDD</color>
+    <color name="light_grey_shadow">#CABBBBBB</color>
+    <color name="seperator">#E0E0E0</color>
+    <color name="name_header_bg_color">#DDDDDD</color>
+    <color name="top_header_border">#B4B4B4</color>
+    <color name="dk_grey">#A9A9A9</color>
+    <color name="dark_grey"> #696969</color>
+
+
+    <color name="footer_blue">#DCECF9</color>
+    <color name="blue_light_footer">#DCECF9</color>
+    <color name="inactive_btn">#86C8EB</color>
+    <color name="txt_color_blue">#35A1DF</color>
+    <color name="active_btn">#35A3E0</color>
+    <color name="blue">#0b81b7</color>
+    <color name="blue_royal">#165776</color>
+    <color name="blue_dark_footer">#0a5475</color>
+    <color name="light_blue">#73D3FE</color>
+    <color name="dark_blue">#55B3DF</color>
+    <color name="blue_border">#727CAD</color>
+
+    <color name="left_menu_bg_color">#990D87CB</color>
+    <color name="left_menu_view_color">#1D8DCC</color>
+    <color name="left_menu_bg_top_color">#CC1B72A7</color>
+    <color name="left_menu_bg_bottom_color">#CC7F9FB0</color>
+    <color name="tab_blue">#2CB7F5</color>
+
+
+
+
+
+
+
+    <!--    <color name="grey">#dcdcdc</color>
+        <color name="grey_dark">#808080</color>
+        <color name="grey1">#f6f2f9</color>
+        <color name="div">#eaeaea</color>
+        <color name="theme_color">#673695</color>
+        <color name="theme_color_transparent">#55673695</color>
+        <color name="theme_color_transparent_dark">#DF673695</color>
+        <color name="fb_blue">#3b5998</color>
+        <color name="gplus_red">#dd4b39</color>
+        <color name="blue_bg">#484a81</color>
+        <color name="transparent_blackish">#90000000</color>
+        <color name="transparent_blackish_toolbar">#50000000</color>
+        <color name="transparent_whiteish">#20ffffff</color>
+
+        <color name="service_list_bg">#80673695</color>
+        <color name="service_list_bg_onclick">#D9673695</color>
+
+        <color name="pressed_color">#808080</color>
+        <color name="default_color">#ffffff</color>-->
+</resources>

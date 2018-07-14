@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!--Options for the feedback-->
+    <string name="option1">Filler 1</string>
+    <string name="option2">Filler 2</string>
+    <string name="option3">Filler 3</string>
+    <string name="option4">Filler 4</string>
+    <string name="option5">Filler 5</string>
+    <string name="option6">Filler 6</string>
+    <string name="level_1_feedback_url">http://192.168.43.29/Android/getdata.php</string>
+</resources>
